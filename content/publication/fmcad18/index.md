@@ -7,7 +7,6 @@ title: "ILA-MCM: Integrating Memory Consistency Models with Instruction-Level Ab
 authors:
 - admin
 - Caroline Trippel
-- Grigory Fedyukovich
 - Yatin A. Manerkar
 - Aarti Gupta
 - Margaret Martonosi
