@@ -68,4 +68,4 @@ Hongce Zhang is an Assistant Professor at the Microelectronics Thrust, Function 
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_4.pdf" "newtab" >}}CV (including publications){{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_4.pdf" "newtab" >}}CV{{< /staticref >}}.
