@@ -26,7 +26,7 @@ publishDate: "2021-07-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In Computer-aided Verification
+publication: In Computer-Aided Verification
 publication_short: In CAV
 
 abstract: 
