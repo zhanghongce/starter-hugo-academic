@@ -1,6 +1,6 @@
 ---
 title: ILAng
-summary: Systems-on-Chip Specification and Verification, part of [Upscale](https://upscale.stanford.edu)
+summary: Systems-on-Chip Specification and Verification, part of [Upscale](https://upscale.stanford.edu). PhD work.
 tags:
 - Verification
 date: "2016-04-27T00:00:00Z"
