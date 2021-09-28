@@ -52,4 +52,4 @@ If you are having trouble discovering which two (or more) `always @(*)` blocks a
 
 **An Alternative Approach**
 
-If you can get the Verilog into Yosys, you may use the `scc` command in Yosys to find combinational logic loops. However, Yosys reports loops based on the component after initial synthesis rather than the line numbers.
+If you can get the Verilog into Yosys, you may use the `scc` command in Yosys to find combinational logic loops.

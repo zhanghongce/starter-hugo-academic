@@ -18,5 +18,6 @@ title: Open Positions
 
 
 
-I'm looking for talented students (PhD/MPhil/RA) who are interested in exploring topics around hardware verification, firmware and systems-on-chip security.
+I'm looking for talented students (PhD/RA) who are interested in exploring topics around hardware verification, firmware and systems-on-chip security.
  Some of the work in this area is closely related to the electronic design automation (EDA) industry and I expect such topics will recieve increasingly more focus and support in the near future. I also have an open-position for a post-doc. The salaries will be highly competitive.
+ Unlike PhD/RA, MPhil admission is administrated solely by the graduate school, please consult [Fok Ying Tung graduate school](https://pg.usthk.cn/prospective-students/home) if you are interested in the MPhil program.
