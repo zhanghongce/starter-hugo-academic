@@ -1,10 +1,10 @@
 ---
-title: TBA
+title: FUNH6800A (T1) Function Hub Seminar
 
 #event: Courses
 #event_url: https://example.org
 
-location: TBA
+location: Online
 address:
   street: 
   city: 
@@ -30,9 +30,6 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
 
 links:
 url_code: ""
