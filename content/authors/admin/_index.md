@@ -64,8 +64,9 @@ email: "hongcezh@ust.hk"
 highlight_name: false
 ---
 
-Hongce Zhang is an Assistant Professor at the Microelectronics Thrust, Function Hub of the Hong Kong University of Science and Technology (Guangzhou Campus). He received his PhD from the [Electrical and Computer Engineering Department](https://ece.princeton.edu/) of [Princeton University](https://www.princeton.edu/) in 2021, advised by [Professor Sharad Malik](https://www.princeton.edu/~sharad/). 
+Hongce Zhang is an Assistant Professor at the [Microelectronics Thrust](https://hkust-gz.edu.cn/academics/four-hubs/function-hub/microelectronics), [Function Hub](https://hkust-gz.edu.cn/academics/four-hubs/function-hub) of the [Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/). He is also affiliated with the [ECE department](https://ece.hkust.edu.hk/) of [HKUST](https://hkust.edu.hk/).
+ He received his PhD from the [Electrical and Computer Engineering Department](https://ece.princeton.edu/) of [Princeton University](https://www.princeton.edu/) in 2021, advised by [Professor Sharad Malik](https://www.princeton.edu/~sharad/). 
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_4.pdf" "newtab" >}}CV{{< /staticref >}}.
+ <!--- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_4.pdf" "newtab" >}}CV{{< /staticref >}}. ---> 
